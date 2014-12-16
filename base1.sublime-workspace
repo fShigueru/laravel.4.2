@@ -1,0 +1,669 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Confi",
+				"configurations"
+			],
+			[
+				"conf",
+				"Configuration"
+			],
+			[
+				"rou",
+				"route"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/Admin/UserController.php",
+			"settings":
+			{
+				"buffer_size": 1550,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/Admin/HomeController.php",
+			"settings":
+			{
+				"buffer_size": 361,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/Admin/configuration/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes.php",
+			"settings":
+			{
+				"buffer_size": 767,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/Admin/ConfigurationController.php",
+			"settings":
+			{
+				"buffer_size": 1080,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/config/config.php",
+			"settings":
+			{
+				"buffer_size": 228,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/controllers/cms/Source-ProdutoController.php",
+			"settings":
+			{
+				"buffer_size": 1560,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/routes.php",
+			"settings":
+			{
+				"buffer_size": 7264,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/Admin/layouts/default.blade.php",
+			"settings":
+			{
+				"buffer_size": 825,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/controllers/cms/ProdutoController.php",
+			"settings":
+			{
+				"buffer_size": 1447,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/controllers/Admin/BaseController.php",
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Add Channel"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control",
+				"Package Control: Add Channel"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/controllers/Admin/Configuration.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/views/Admin/configuration/hello.blade.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/views/Admin/layouts/default.blade.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/models/Configuration.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/config/config.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/config/app.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/database/seeds/ConfigurationsTableSeeder.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/database/seeds/DatabaseSeeder.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/controllers/cms/ProdutoController.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/models/Produto.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/controllers/ProdutoController.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/controllers/Admin/HomeController.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/models/User.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/controllers/Admin/UserController.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/views/cms/produto/cadastrar.blade.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/views/cms/produto/index.blade.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/database/migrations/2014_12_10_010040_site_base_users_create.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/controllers/cms/IndexController.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/controllers/BaseController.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/controllers/VendaController.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/config/configuracao.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/views/Admin/login.blade.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/views/Admin/hello.blade.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/composer.json",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/database/seeds/ConfigurationTableSeeder.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/database/seeds/UserTableSeeder.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/controllers/Admin/BaseController.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/database/migrations/2014_12_10_233836_create_configurations_table.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/database/seeds/ProdutoTableSeeder.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/database/seeds/UserTableSeeder.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/database/seeds/VendaTableSeeder.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/composer.json",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/database/migrations/2014_12_07_162916_site_base_users_create.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/views/layouts/default.blade.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/views/Admin/hello.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/controllers/HomeController.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/views/Admin/layouts/cms.blade.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/views/emails/auth/reminder.blade.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/controllers/HomeController.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/filters.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/views/elements/view_venda.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/views/produtos.blade.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/views/index.blade.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/views/admin/produto/create.blade.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/views/Admin/login.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/routes.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/routes.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/filters.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/filters.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/routes.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/views/layouts/admin.blade.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/views/emails/auth/reminder.blade.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/views/admin/produto/visualizar.blade.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/controllers/Admin/BaseController.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/controllers/EdukeeController.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/config/database.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/database/seeds/DatabaseSeeder.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/database/migrations/2014_08_18_191853_create_produto_table.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/database/seeds/ProdutoTableSeeder.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/database/seeds/UsersTableSeeder.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/database/migrations/2014_12_07_160122_site_base_users_create.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/database/migrations/2013_07_05_195402_create_password_reminders_table.php",
+		"/C/Users/Akatcham/Documents/laravel.curso/edukee/app/database/migrations/2013_07_02_223256_create_users_table.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/controllers/Site/HomeController.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/views/Site/hello.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/controllers/Site/BaseController.php",
+		"/D/projetos/Vagrantfile",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/config/database.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/controllers/.gitkeep",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/models/Categoria.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/views/produto/cadastrar.blade.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/controllers/BaseController.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/app/controllers/HomeController.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/models/User.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/viewComposer/ProdutoComposer.php",
+		"/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/models/Venda.php",
+		"/C/Users/Akatcham/Desktop/hosts",
+		"/D/projetos/vhosts/public/laravel/base.1.0/laravel/app/config/app.php",
+		"/D/projetos/vhosts/public/laravel/base.1.0/laravel/composer.json",
+		"/D/projetos/vhosts/public/laravel/base/app/routes.php",
+		"/D/projetos/vhosts/public/laravel/base/app/config/app.php",
+		"/D/projetos/vhosts/public/laravel/base/app/modules/Site/module.json",
+		"/D/projetos/vhosts/public/laravel/base/composer.json",
+		"/D/projetos/vhosts/public/laravel/base/app/modules/Site/ServiceProvider.php",
+		"/D/projetos/vhosts/public/laravel/base/app/modules/ServiceProvider.php",
+		"/D/projetos/vhosts/public/laravel/base/app/modules/Site/routes.php",
+		"/D/projetos/vhosts/public/laravel/base/app/modules/Site/views/hello.php",
+		"/D/projetos/vhosts/public/laravel/base/vendor/creolab/laravel-modules/composer.json",
+		"/D/projetos/vhosts/public/laravel/base/app/modules/Admin/module.json",
+		"/D/projetos/vhosts/public/laravel/base/public/index.php",
+		"/D/projetos/vhosts/public/laravel/base/bootstrap/start.php",
+		"/D/projetos/vhosts/public/laravel/base/bootstrap/autoload.php",
+		"/D/projetos/vhosts/public/laravel/base/app/controllers/BaseController.php",
+		"/D/projetos/vhosts/public/laravel/base/app/filters.php",
+		"/D/projetos/vhosts/public/laravel/base/bootstrap/paths.php",
+		"/D/projetos/vhosts/public/laravel/base/public/.htaccess",
+		"/D/projetos/vhosts/public/laravel/base/app/views/hello.php",
+		"/D/projetos/vhosts/public/laravel/base/vendor/laravel/framework/composer.json",
+		"/D/projetos/vhosts/public/laravel/base/app/config/local/app.php",
+		"/D/projetos/vhosts/public/laravel/base/app/config/auth.php",
+		"/D/projetos/manifests/default.pp",
+		"/D/projetos/vhosts/projeto01/public/index.php",
+		"/D/projetos/vhosts/projeto01/public/info.php",
+		"/C/Users/Akatcham/Downloads/download (1)",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/Users/Akatcham/vhosts/teste/index.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"></\n",
+			"auth",
+			"login",
+			"user",
+			"127",
+			"D:",
+			"forwarded_port",
+			"network",
+			"customize",
+			"config.vm.cu",
+			"config.vm.ci",
+			"config.vm.cu",
+			"config.vm.custo",
+			"config.vm.customize",
+			"pupp",
+			"share_folder",
+			"80"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/Admin/UserController.php",
+					"settings":
+					{
+						"buffer_size": 1550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1064,
+								1064
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 413.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/Admin/HomeController.php",
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/Admin/configuration/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/routes.php",
+					"settings":
+					{
+						"buffer_size": 767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/controllers/Admin/ConfigurationController.php",
+					"settings":
+					{
+						"buffer_size": 1080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/config/config.php",
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/controllers/cms/Source-ProdutoController.php",
+					"settings":
+					{
+						"buffer_size": 1560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/routes.php",
+					"settings":
+					{
+						"buffer_size": 7264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7127,
+								7135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2183.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/views/Admin/layouts/default.blade.php",
+					"settings":
+					{
+						"buffer_size": 825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								706,
+								719
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Akatcham/Documents/laravel.base/laravel/base/app/controllers/cms/ProdutoController.php",
+					"settings":
+					{
+						"buffer_size": 1447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 245.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/controllers/Admin/BaseController.php",
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								6
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
